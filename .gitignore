@@ -20,6 +20,12 @@ $RECYCLE.BIN/
 # =========================
 # Operating System Files
 # =========================
+/4me
+.privates
+node_modules
+
+yarn-error.log
+npm-debug.log
 
 # OSX
 # =========================
