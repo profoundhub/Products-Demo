@@ -10,8 +10,8 @@
     "type": "git",
     "url": "git+https://github.com/profoundhub/Products-Demo.git"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Daniel Lim",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/profoundhub/Products-Demo/issues"
   },
